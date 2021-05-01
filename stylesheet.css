@@ -1,0 +1,15 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #000000;
+}
+
+h2 {
+  text-align: center;
+  color: #aaaaaa;
+  font-family: Lobster;
+}
+
+#sketch-holder {
+  text-align: center;
+}
